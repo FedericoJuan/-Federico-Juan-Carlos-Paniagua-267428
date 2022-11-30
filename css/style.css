@@ -1,0 +1,20 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body { 
+    background-color: aqua;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.grid-box {
+    background-color: beige;
+    border: 3px solid;
+}
