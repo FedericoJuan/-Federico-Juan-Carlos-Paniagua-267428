@@ -9,12 +9,12 @@ html {
 }
 
 body { 
-    background-color: aqua;
+    background-color: red;
     color: blue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.grid-box {
-    background-color: beige;
-    border: 3px solid;
+.grid-container {
+       background-color: blueviolet;
+
 }
